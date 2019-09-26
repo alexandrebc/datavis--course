@@ -1,0 +1,14 @@
+{
+  "name": "@alexandrebc/d3-com-crossfilter-e-dc-js",
+  "main": "d/ed6ab9dd51ed73c8.js",
+  "version": "225.0.0",
+  "homepage": "https://observablehq.com/@alexandrebc/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Alexandre Barroso Costa",
+    "url": "https://observablehq.com/@alexandrebc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
