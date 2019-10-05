@@ -1,12 +1,13 @@
-## Aula do dia 30/09/2019
+## Aula do dia 30/09/2019 -- D3 com Crossfilter, DC.js e Leaflet // Visualizando Crimes em Chicago
 
 [d3_leaflet/index.html](d3_leaflet/index.html)<br>
+[d3_leaflet_2/index.html](d3_leaflet_2/index.html)<br>
 
-## Aula do dia 25/09/2019
+## Aula do dia 25/09/2019 -- D3 com Crossfilter e DC.js (Parte 2)
 
 [d3_crossfilter_2/index.html](d3_crossfilter_2/index.html)<br>
 
-## Aula do dia 23/09/2019
+## Aula do dia 23/09/2019 -- D3 com Crossfilter e DC.js
 
 [d3_crossfilter/index.html](d3_crossfilter/index.html)<br>
 

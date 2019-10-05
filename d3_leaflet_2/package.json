@@ -1,0 +1,14 @@
+{
+  "name": "@alexandrebc/visualizando-crimes-de-chicago",
+  "main": "d/66545208616c4e2e.js",
+  "version": "270.0.0",
+  "homepage": "https://observablehq.com/@alexandrebc/visualizando-crimes-de-chicago",
+  "author": {
+    "name": "Alexandre Barroso Costa",
+    "url": "https://observablehq.com/@alexandrebc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
