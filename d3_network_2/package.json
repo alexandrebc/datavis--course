@@ -1,0 +1,14 @@
+{
+  "name": "@alexandrebc/les-miserables",
+  "main": "d/915ac0dd19ea0ae1.js",
+  "version": "138.0.0",
+  "homepage": "https://observablehq.com/@alexandrebc/les-miserables",
+  "author": {
+    "name": "Alexandre Barroso Costa",
+    "url": "https://observablehq.com/@alexandrebc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

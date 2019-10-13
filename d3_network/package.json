@@ -1,0 +1,14 @@
+{
+  "name": "@alexandrebc/similar-song-network",
+  "main": "d/fc199a59a6a23ea3.js",
+  "version": "108.0.0",
+  "homepage": "https://observablehq.com/@alexandrebc/similar-song-network",
+  "author": {
+    "name": "Alexandre Barroso Costa",
+    "url": "https://observablehq.com/@alexandrebc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
