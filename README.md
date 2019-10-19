@@ -1,3 +1,8 @@
+## Aula do dia 16/10/2019 -- Cores em D3
+
+[d3_color/index.html](d3_color/index.html)<br>
+[d3_color_2/index.html](d3_color_2/index.html)<br>
+
 ## Aula do dia 09/10/2019 -- Visualização de networks e árvores em D3
 
 [d3_network/index.html](d3_network/index.html)<br>
